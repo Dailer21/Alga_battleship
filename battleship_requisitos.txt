@@ -1,0 +1,26 @@
+BATTLESHIP
+
+-Cada jugador tiene un tablero de Oceano(propio) y uno de Tiro(contrincante)
+En el primero se registran los barcos y tiros del oponente.
+En el segundo se registran los tiros y aciertos propios.
+
+* Se debe estipular un numero igual de naves
+Ej. 2 portaaviones, 3 buques y 5 lanchas.
+No se podran colocar barcos pegados entre si.
+
+5 = Portaaviones
+4 = Buque
+3 = Submarino
+2 = Crucero
+1 = Lancha
+
+-Por turno.
+¡Impacto!
+¡Hundido!
+¡Agua!
+
+-Con X los tiros
+Con O los aciertos
+
+-Ganador el primero que atine a todas las naves.
+Aquel del segundo turno podra dar un ultimo tiro en caso de que el puntaje estuviera perdiendo por 1 para atinar al final y quedar empate.
